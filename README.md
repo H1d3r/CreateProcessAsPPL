@@ -18,7 +18,7 @@ If you want to run a program with PPL protection enabled, then this tool will he
 
 [An article about exploiting the PPL program to destroy Windows Defender](https://www.zerosalarium.com/2025/08/countering-edrs-with-backing-of-ppl-protection.html)
 
-[WSASS - Tool to dump the LSASS process on modern Windows 11](https://github.com/2x7EQ13/WSASS)
+[WSASS - Tool to dump the LSASS process on modern Windows 11](https://github.com/TwoSevenOneT/WSASS)
 
 [An article about exploiting WerFaultSecure.exe to dump LSASS](https://www.zerosalarium.com/2025/09/Dumping-LSASS-With-WER-On-Modern-Windows-11.html)
 
