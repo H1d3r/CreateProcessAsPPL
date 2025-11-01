@@ -22,6 +22,22 @@ If you want to run a program with PPL protection enabled, then this tool will he
 
 [An article about exploiting WerFaultSecure.exe to dump LSASS](https://www.zerosalarium.com/2025/09/Dumping-LSASS-With-WER-On-Modern-Windows-11.html)
 
+## ☕ Like what I do? You can fuel my creativity with a coffee!
+
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/twosevenonethree)
+
+## Tools For Security Researcher and Hacker
+
+Essential tools that every security researcher and hacker should have in their toolkit:
+
+[Essential Tools For Security Researcher and Hacker](https://www.zerosalarium.com/p/essential-tools-for-security-researcher.html)
+
+## READING
+
+Some books you should read to sharpen your cybersecurity skills, especially in offensive security:
+
+[Books on Programming and Cybersecurity recommended by Zero Salarium Researchers](https://www.zerosalarium.com/2025/10/books-on-programming-and-cybersecurity-recommended.html)
+
 ## Author:
 
 [Two Seven One Three](https://x.com/TwoSevenOneT)
