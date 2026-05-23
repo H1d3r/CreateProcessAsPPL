@@ -22,9 +22,9 @@ If you want to run a program with PPL protection enabled, then this tool will he
 
 [An article about exploiting WerFaultSecure.exe to dump LSASS](https://www.zerosalarium.com/2025/09/Dumping-LSASS-With-WER-On-Modern-Windows-11.html)
 
-## ☕ Like what I do? You can fuel my creativity with a coffee!
+## 🐦 Enjoying my work? Support the journey by following me on X
 
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/twosevenonethree)
+[![Twitter Follow](https://img.shields.io/twitter/follow/TwoSevenOneT?style=for-the-badge&logo=x&color=000)](https://x.com/TwoSevenOneT)
 
 ## Tools For Security Researcher and Hacker
 
